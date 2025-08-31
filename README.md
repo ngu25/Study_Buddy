@@ -39,7 +39,7 @@ It is a 3-board stackup with:
 ```
 // ---------- WiFi ----------
 const char* ssid = "<your-ssid>";
-const char* password = "your-password";
+const char* password = "<your-password>";
 ```
 
 # Technical Details
